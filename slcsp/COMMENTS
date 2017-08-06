@@ -1,0 +1,4 @@
+My solution uses node.js. You can run my solution via the following commands:
+
+$ npm install
+$ node slcspCalc.js

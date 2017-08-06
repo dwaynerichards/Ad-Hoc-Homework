@@ -1,0 +1,16 @@
+{
+  "name": "slcsp",
+  "version": "1.0.0",
+  "description": "Calculate second lowest cost silver plan (SLCSP) ================================================",
+  "main": "slcspCalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alasql": "^0.4.1",
+    "es6-promise": "^4.1.1",
+    "lodash": "^4.17.4"
+  }
+}
