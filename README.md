@@ -1,3 +1,6 @@
+I completed some homework problems as part of the Ad Hoc Interview process. My work can be found under the fetch, hhbuilder, and slcsp directories. 
+
+
 Ad Hoc homework problems
 ========================
 
